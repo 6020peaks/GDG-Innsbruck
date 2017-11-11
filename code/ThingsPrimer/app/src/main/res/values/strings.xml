@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThingsPrimer</string>
+    <string name="title_activity_hello">Hello, GDG Innbruck!</string>
+
+    <string name="hello_button">Hello</string>
+    <string name="camera_button">Camera</string>
+    <string name="microphone_button">Microphone</string>
+    <string name="touchscreen_button">Touch screen</string>
+    <string name="takePhoto_button">Take photo</string>
+</resources>
