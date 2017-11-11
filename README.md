@@ -1,4 +1,5 @@
-# GDG-Innsbruck
+![alt text](https://github.com/droidhood/GDG-Innsbruck/blob/master/images/gdg-ibk-snow.png "GDG-Innsbruck")
+
 Public repository of the [Google Developer Group Innsbruck](https://www.meetup.com/GDG-Innsbruck/).
 
 What is a GDG? Find it out [here](https://docs.google.com/presentation/d/1McuTFMLS3wD2DUWibi_MUMHES574FnTMtKi1LLSZUuY/edit?usp=sharing)
